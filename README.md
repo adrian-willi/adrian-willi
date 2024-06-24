@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **Frameworks & Librarys:**  
 
-<code><img height="20" src="https://cdn.svgporn.com/logos/pytorch.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/pytorch-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/tensorflow.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/bash.svg"></code>
 
