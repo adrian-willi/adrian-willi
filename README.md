@@ -26,5 +26,10 @@ Here are some ideas to get you started:
 <code><img height="25" src="https://cdn.svgporn.com/logos/pytorch-icon.svg"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/tensorflow.svg"></code>
 
+**Tools:**  
+
+<code><img height="25" src="https://cdn.svgporn.com/logos/docker-icon.svg"></code>
+<code><img height="25" src="https://cdn.svgporn.com/logos/tensorflow.svg"></code>
+
 
 
