@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 **Languages:**  
 
 <code><img height="25" src="https://cdn.svgporn.com/logos/python.svg"></code>
+<code><img height="25" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/java.svg"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/bash-icon.svg"></code>
 
