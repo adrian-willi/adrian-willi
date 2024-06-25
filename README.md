@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Octave-Dark.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/bash-icon.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"></code>
 
 **Frameworks & Librarys:**  
 
