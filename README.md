@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 **Tools & Systems:**  
 
-<code><img height="20" src="https://cdn.svgporn.com/logos/docker-icon.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
 <code><img height="20" src="https://github.com/wandb/assets/blob/main/wandb-dots-logo.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/grafana.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg"></code>
 
