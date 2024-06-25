@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working as a researcher
+
 **Languages:**  
 
 <code><img height="25" src="https://cdn.svgporn.com/logos/python.svg"></code>
