@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 **Tools:**  
 
 <code><img height="25" src="https://cdn.svgporn.com/logos/docker-icon.svg"></code>
-<code><img height="25" src="https://cdn.svgporn.com/logos/tensorflow.svg"></code>
+<code><img height="25" src="https://github.com/wandb/assets/blob/main/wandb-dots-logo.svg"></code>
 
 
 
