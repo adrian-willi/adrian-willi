@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 
 **Languages:**  
 
-<code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Octave-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"></code>
 
 **Frameworks & Librarys:**  
 
-<code><img height="20" src="https://cdn.svgporn.com/logos/pytorch-icon.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/tensorflow.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg"></code>
 
 **Tools & Systems:**  
 
