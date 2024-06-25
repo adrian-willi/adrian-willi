@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/grafana.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg"></code>
+
+
 
 
 
