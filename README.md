@@ -29,11 +29,13 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.svgporn.com/logos/pytorch-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/tensorflow.svg"></code>
 
-**Tools:**  
+**Tools & Systems:**  
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/docker-icon.svg"></code>
 <code><img height="20" src="https://github.com/wandb/assets/blob/main/wandb-dots-logo.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/grafana.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/macOS.svg"></code>
 
 
 
