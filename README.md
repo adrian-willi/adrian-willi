@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Octave-Dark.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/bash-icon.svg"></code>
 
 **Frameworks & Librarys:**  
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/docker-icon.svg"></code>
 <code><img height="20" src="https://github.com/wandb/assets/blob/main/wandb-dots-logo.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 
 
 
