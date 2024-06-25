@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 
 **Languages:**  
 
-<code><img height="25" src="https://cdn.svgporn.com/logos/python.svg"></code>
-<code><img height="25" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
-<code><img height="25" src="https://cdn.svgporn.com/logos/java.svg"></code>
-<code><img height="25" src="https://cdn.svgporn.com/logos/bash-icon.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/bash-icon.svg"></code>
 
 **Frameworks & Librarys:**  
 
-<code><img height="25" src="https://cdn.svgporn.com/logos/pytorch-icon.svg"></code>
-<code><img height="25" src="https://cdn.svgporn.com/logos/tensorflow.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/pytorch-icon.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/tensorflow.svg"></code>
 
 **Tools:**  
 
-<code><img height="25" src="https://cdn.svgporn.com/logos/docker-icon.svg"></code>
-<code><img height="25" src="https://github.com/wandb/assets/blob/main/wandb-dots-logo.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/docker-icon.svg"></code>
+<code><img height="20" src="https://github.com/wandb/assets/blob/main/wandb-dots-logo.svg"></code>
 
 
 
