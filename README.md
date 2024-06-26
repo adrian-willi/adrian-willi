@@ -29,17 +29,12 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,flask,fastapi,angular,react" style="width: 240px;" alt="My Frameworks and Library Skills">
 </a>
 
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg"></code>
-
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg"></code>
 
 **Tools & Systems:**  
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,docker" style="width: 240px;" alt="My Frameworks and Library Skills">
+</a>
 
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
 <code><img height="20" src="https://github.com/wandb/assets/blob/main/wandb-dots-logo.svg"></code>
