@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I am currently working as a research associate in the ML and AI lab of the University of Applied Sciences Lucerne
 - ✨ I am highly interested in quantitative finance, and generally modelling and solving problems by leveraging machine learning
 - 💬 I can speak German (even Swiss German), English and little bit French
+- - 📫 How to reach me: [LinkedIn]([LinkedIn](https://www.linkedin.com/in/adrian-willi-3a6b3111a/))
 
 **Languages:**  
 
