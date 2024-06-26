@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm&iconsize=32)](https://skillicons.dev)
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" style="width: 64px;" alt="My Skills">
+</a>
+
 
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
