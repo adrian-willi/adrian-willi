@@ -19,29 +19,24 @@ Here are some ideas to get you started:
 **Languages:**  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,octave,r,js,nodejs,html,css,bash" style="width: 270px;" alt="My Language Skills">
+  <img src="https://skillicons.dev/icons?i=py,java,octave,r,js,nodejs,html,css,bash" style="width: 315px;" alt="My Language Skills">
 </a>
 
 
 **Frameworks & Librarys:**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,flask,fastapi,angular,react" style="width: 240px;" alt="My Frameworks and Library Skills">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,flask,fastapi,angular,react" style="width: 280px;" alt="My Frameworks and Library Skills">
 </a>
 
 
 **Tools & Systems:**  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,docker,grafana,postman,mongodb" style="width: 240px;" alt="My Frameworks and Library Skills">
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,docker,grafana,postman,mongodb" style="width: 245px;" alt="My Frameworks and Library Skills">
 </a>
 
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
-<code><img height="20" src="https://github.com/wandb/assets/blob/main/wandb-dots-logo.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg"></code>
+
 
 
 
