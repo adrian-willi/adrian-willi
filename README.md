@@ -19,16 +19,9 @@ Here are some ideas to get you started:
 **Languages:**  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,octave,r,js,html,css,bash" style="width: 230px;" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=py,java,octave,r,js,nodejs,html,css,bash" style="width: 230px;" alt="My Skills">
 </a>
 
-
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Octave-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"></code>
 
 **Frameworks & Librarys:**  
 
