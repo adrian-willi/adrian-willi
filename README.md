@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a researcher
+- 🔭 I am currently working as a researcher
+- ✨ I am highly interested in quantitative finance, and using machine learning to solve problems
+- 
 
 **Languages:**  
 
