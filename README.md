@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - 💬 I can speak German (even Swiss German), English and little bit French
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adrian-willi-3a6b3111a/)
 
+<br>
+<br>
+
 **Languages:**  
 
 <a href="https://skillicons.dev">
@@ -33,7 +36,8 @@ Here are some ideas to get you started:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,flask,fastapi,angular,react" style="width: 280px;" alt="My Frameworks and Library Skills">
 </a>
-
+<br>
+<br>
 
 
 **Tools & Systems:**  
@@ -41,6 +45,8 @@ Here are some ideas to get you started:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,windows,git,docker,grafana,postman,mongodb" style="width: 245px;" alt="My Frameworks and Library Skills">
 </a>
+<br>
+<br>
 
 
 
