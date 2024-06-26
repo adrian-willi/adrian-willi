@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 **Languages:**  
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm&size=64)](https://skillicons.dev)
+
 
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
