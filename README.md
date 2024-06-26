@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 **Tools & Systems:**  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,docker" style="width: 240px;" alt="My Frameworks and Library Skills">
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,docker,grafana,postman,mongodb" style="width: 240px;" alt="My Frameworks and Library Skills">
 </a>
 
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
