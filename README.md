@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 - 🔭 I am currently working as a research associate in the ML and AI lab of the University of Applied Sciences Lucerne
 - ✨ I am highly interested in quantitative finance, and generally modelling and solving problems by leveraging machine learning
-- 
+- 💬 I can speak German (even Swiss German), English and little bit French
 
 **Languages:**  
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,java,octave,r,js,nodejs,html,css,bash" style="width: 315px;" alt="My Language Skills">
 </a>
-<br>
 <br>
 <br>
 
