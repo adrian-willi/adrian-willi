@@ -25,11 +25,13 @@ Here are some ideas to get you started:
 </a>
 
 
+
 **Frameworks & Librarys:**
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,flask,fastapi,angular,react" style="width: 280px;" alt="My Frameworks and Library Skills">
 </a>
+
 
 
 **Tools & Systems:**  
