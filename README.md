@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 
 **Languages:**  
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Octave-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"></code>
 
@@ -28,6 +31,13 @@ Here are some ideas to get you started:
 
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg"></code>
+
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg"></code>
 
 **Tools & Systems:**  
 
