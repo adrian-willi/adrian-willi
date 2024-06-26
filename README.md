@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 **Frameworks & Librarys:**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,flask,fastapi  ,nodejs,html,css,bash" style="width: 270px;" alt="My Frameworks and Library Skills">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,flask,fastapi,angular,react" style="width: 240px;" alt="My Frameworks and Library Skills">
 </a>
 
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg"></code>
