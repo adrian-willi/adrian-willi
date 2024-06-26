@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **Languages:**  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,octave,r,js,nodejs,html,css,bash" style="width: 230px;" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=py,java,octave,r,js,nodejs,html,css,bash" style="width: 270px;" alt="My Skills">
 </a>
 
 
