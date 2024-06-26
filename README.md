@@ -18,8 +18,13 @@ Here are some ideas to get you started:
 - ✨ I am highly interested in quantitative finance, and generally modelling and solving problems by leveraging machine learning
 - 💬 I can speak German (even Swiss German), English and little bit French
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adrian-willi-3a6b3111a/)
+- 🔨Selection of projects:
+  - Estimation of fill probabilites of limit orders (algorithmic trading)
+  - LLM powered chatbot for customer guidance through pension planning scenarios
+  - Self-Supervised and Few-Shot Learning for Robust Bioaerosol Monitoring [Paper](https://arxiv.org/abs/2406.09984)
+  - Processing of computer tomography images for calibration of these devices
 
-<br>
+
 <br>
 
 **Languages:**  
