@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm&iconsize=32)](https://skillicons.dev)
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" style="width: 64px;" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" style="width: 128px;" alt="My Skills">
 </a>
 
 
