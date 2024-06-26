@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I am currently working as a researcher
-- ✨ I am highly interested in quantitative finance, and using machine learning to solve problems
+- 🔭 I am currently working as a research associate in the ML and AI lab of the University of Applied Sciences Lucerne
+- ✨ I am highly interested in quantitative finance, and generally modelling and solving problems by leveraging machine learning
 - 
 
 **Languages:**  
