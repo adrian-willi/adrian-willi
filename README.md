@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🔨Selection of projects I have worked on:
   - Estimation of fill probabilites of limit orders (algorithmic trading) - Master Thesis
   - LLM powered chatbot for customer guidance through pension planning scenarios
+  - Survey about the regulatory changes for External Asset Managers in Switzerland ([Comment in Newspaper](https://www.handelszeitung.ch/banking/vermogensverwalter-sehen-durch-starkere-regulierung-mehrkosten-auf-sich-zukommen-698581))
   - Self-Supervised and Few-Shot Learning for Robust Bioaerosol Monitoring ([Paper](https://arxiv.org/abs/2406.09984))
   - Processing of computer tomography images for calibration of these devices - Bachelor Thesis
 
