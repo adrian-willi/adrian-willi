@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=py,java,octave,r,js,nodejs,html,css,bash" style="width: 315px;" alt="My Language Skills">
 </a>
 <br>
+<br>
+<br>
 
 
 **Frameworks & Librarys:**
