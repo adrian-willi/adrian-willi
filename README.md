@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I am currently working as a research associate in the ML and AI research lab at the University of Applied Sciences Lucerne
+- 🔭 I am currently working as a Quant at Bank Vontobel
 - ✨ I am highly interested in quantitative finance and generally in modelling and solving problems using machine learning
-- 💬 I speak German (including Swiss German), English, and a little bit of French
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adrian-willi-3a6b3111a/)
 - 🔨Selection of projects I have worked on:
   - Estimation of fill probabilities for limit orders (algorithmic trading) - Master Thesis
